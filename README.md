@@ -1,2 +1,2 @@
-# Dungeon-Secret-Mod
-Read readme
+# Dungeon-Secret-Mod V1.0
+
